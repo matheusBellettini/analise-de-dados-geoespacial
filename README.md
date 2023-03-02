@@ -18,6 +18,8 @@ Instale as bibliotecas necessárias:
 
 pip install -r requirements.txt
 
+Coloque o  conjunto de dados dentro da pasta data
+
 Execute o script:
 
 python script.py
@@ -39,4 +41,5 @@ Detecção de anomalias
 Esta funcionalidade permite detectar anomalias em imagens de satélite, como incêndios florestais, deslizamentos de terra e enchentes. Para usar esta funcionalidade, siga as instruções na tela.
 
 Créditos
+
 Este script foi desenvolvido por Matheus Bellettini.
