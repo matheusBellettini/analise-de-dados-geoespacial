@@ -18,7 +18,7 @@ Instale as bibliotecas necessárias:
 
 pip install -r requirements.txt
 
-Coloque o  conjunto de dados dentro da pasta data
+Crie uma pasta chamada data e coloque o conjunto de dados dentro dela
 
 Execute o script:
 
